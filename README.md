@@ -1,7 +1,6 @@
 # proyek
 Tugas web
-
-!DOCTYPE html>
+	<!DOCTYPE html>
 <html>
 <head>
 	<title>Tugas Topic 1 by Omar</title>
@@ -10,34 +9,6 @@ Tugas web
 	<style>
 		body{
 			background-image: url("assets/img/wp.jpg");
-		}
-		h1{
-			width: 940px;
-			height: 40px;
-			margin-left: : 30px;
-		}
-		nav{
-			margin-bottom: 50px;
-		}
-		aside, nav li{
-			display: inline;
-			margin-right: 40px;
-		}
-		nav li a, a{
-			color: #e7e8eb;
-			text-decoration: none;
-		}
-		aside{
-			float: right;
-		}
-		img{
-			margin-left: 30px;
-			margin-right: 20px;
-		}
-	</style>
-</head>
-<body>
-background-image: url("assets/img/wp.jpg");
 		}
 		h1{
 			width: 940px;
@@ -138,10 +109,12 @@ background-image: url("assets/img/wp.jpg");
 							Window Manager bertugas menyediakan 'Window' bagi aplikasi yang di jalankan. <br>
 							'Window' yang dimaksud disini adalah exterior dari aplikasi yang dapat berupa border, <br>
 							 title bar, system menu, dan behavior-nya.<br><br>
-				
-<section> merepresentasikan sebuah bagian dokumen atau aplikasi. Secara kontekstual, <section> element digunakan untuk mengelompokkan konten/dokumen menjadi beberapa bagian berdasarkan tema atau pokok pikiran masing-masing.	</th>
+							<a href="">Lihat Selengkapnya...</a>
+						</p>
+					</th>
 				</thead>
-	</article>
+			</table>
+		</article>
 	</section>
 	
 	<footer>
@@ -150,9 +123,8 @@ background-image: url("assets/img/wp.jpg");
 		</address>
 	</footer>
 </body>
-</html>e
-
-Penjelasan 
+</html>
+Penjelasan
 1. <! DOCTYPE html>	Deklarasi untuk mendefinisikan dokumen menjadi HTML
 2	 <html>	Tag pembuka untuk membuat dokumen HTML
 3	 <head>	Informasi meta tentang dokumen
